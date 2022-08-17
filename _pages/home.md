@@ -4,28 +4,24 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  Research Scientist and Lab Manager at University of Colorado. Geochemistry, Raman Spectroscopy, Serpentinization.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/"
+    alt: "geochemistry"
+    title: "Geochemistry"
+    excerpt: "I do geochemistry."
+    url: "/recent-projects/"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/"
+    alt: "serpentinization"
+    title: "Serpentinization"
+    excerpt: "I study serpentinization."
+    url: "/recent-projects/"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/"   
+    alt: "consulting."
+    title: "Consulting"
+    excerpt: "I'm open to consulting."
+    url: "/consulting/"   
 ---
 
 {% include feature_row %}
