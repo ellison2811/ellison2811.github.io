@@ -16,7 +16,6 @@
 title: Eric T. Ellison
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal Website for Eric T Ellison.
   Research Scientist and Lab Manager at
   University of Colorado. Geochemistry,
   Raman Spectroscopy, Serpentinization.
@@ -62,11 +61,20 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Research Scientist and Lab Manager at Umiversity of Colorado. Geochemistry, Raman Spectroscopy, and Serpentinization."
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:ellison.e@gmail.com"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=BcL-WGQAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/eric-t-ellison"
+    - label: "ORCiD"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-6761-1397"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ellison2811"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-scholar"
       url: "https://github.com/ellison2811"
 
 footer:
