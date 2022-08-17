@@ -73,7 +73,7 @@ author:
     - label: "ORCiD"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0002-6761-1397"
-    - label: "Open Science Framework"
+    - label: "osf.io"
       icon: "ai ai-osf"
       url: "https://osf.io/3m25u"
     - label: "GitHub"
