@@ -2,10 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-$footer-background-color: #5065a8;
-$link-color: #5065a8;
-$masthead-link-color: $link-color;
-$masthead-link-color-hover: $link-color;
+$footer-background-color: #5065a8 !default;
+$link-color: #5065a8 !default;
+$masthead-link-color: $link-color !default;
+$masthead-link-color-hover: $link-color !default;
 
 @charset "utf-8";
 
