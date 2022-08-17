@@ -62,7 +62,7 @@ author:
   bio    : "Research Scientist and Lab Manager at Umiversity of Colorado. Geochemistry, Raman Spectroscopy, and Serpentinization."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:ellison.e@gmail.com"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
@@ -73,6 +73,9 @@ author:
     - label: "ORCiD"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0002-6761-1397"
+    - label: "Open Science Framework"
+      icon: "ai ai-osf"
+      url: "https://osf.io/3m25u"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ellison2811"
