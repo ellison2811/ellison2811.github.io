@@ -3,6 +3,10 @@
 search: false
 ---
 $footer-background-color: #5065a8
+$link-color: #5065a8
+$masthead-link-color: $link-color
+$masthead-link-color-hover: $link-color
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
