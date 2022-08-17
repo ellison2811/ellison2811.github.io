@@ -1,3 +1,7 @@
 main:
   - title: "About Eric"
-    url: /about/
+    url: /
+  - title: "Recent Projects"
+    url: /consulting/
+  - title: "Consulting"
+    url: /recent-projects/
