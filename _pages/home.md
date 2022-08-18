@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
@@ -8,6 +8,11 @@ excerpt: >
   Research Scientist and Lab Manager at University of Colorado. Geochemistry, Raman Spectroscopy, Serpentinization.
 author_profile: true
 feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "about"
+    title: "About Eric"
+    excerpt: ""
+    url: "/about/"
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "geochemistry"
     title: "Geochemistry"
