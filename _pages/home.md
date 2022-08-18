@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
   Research Scientist and Lab Manager at University of Colorado. Geochemistry, Raman Spectroscopy, Serpentinization.
+author_profile: true
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "geochemistry"
