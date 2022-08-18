@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /recent-projects/
 title: Recent Projects
 header:
