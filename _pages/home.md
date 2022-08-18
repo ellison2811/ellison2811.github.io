@@ -10,11 +10,6 @@ excerpt: >
 author_profile: true
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "about"
-    title: "About Eric"
-    excerpt: ""
-    url: "/about/"
-  - image_path: /assets/images/mm-customizable-feature.png
     alt: "geochemistry"
     title: "Geochemistry"
     excerpt: "I do geochemistry."
